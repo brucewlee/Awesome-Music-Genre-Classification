@@ -15,11 +15,11 @@ The data contained in **LAMA** can be classified into three categories:
 2. **CNN_Music_Classification.py** -> Convolutional Neural Network Made with TensorFlow
 3. **LSTM_Music_Classification.py** -> RNN-LSTM Made with TensorFlow
 
-> ***NN_Music_Classification.py***
+> Below: ***NN_Music_Classification.py***
 ![Image of SNN](/readme_images/Simple_NN_Music_Classification.png)
-> ***CNN_Music_Classification.py***
+> Below: ***CNN_Music_Classification.py***
 ![Image of SNN](/readme_images/CNN_Music_Classification.png)
-> ***LSTM_Music_Classification.py***
+> Below: ***LSTM_Music_Classification.py***
 ![Image of SNN](/readme_images/LSTM_Music_Classification.png)
 
 ## Other Files
