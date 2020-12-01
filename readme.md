@@ -1,7 +1,7 @@
 # LSTM-CNN-Music-Genre-Classification
 > RNN-LSTM, CNN, Simple NeuralNetworks
 
-This repo is meant to provide simple and straightforward starter codes to those beginning a project in music Genre Classification using Deep Learning Techniques.
+This repo is meant to provide simple and straightforward starter codes to those beginning a project in music Genre Classification using Deep Learning Techniques. This model can classify new audio files into four categories: Latin American, Asian, Middle Eastern, and African Music.
 
 I hope that this work can help in several Deep Learning, Machine Learning projects in *Music Genre Classification*. 
 
