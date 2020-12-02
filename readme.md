@@ -1,5 +1,5 @@
 # Simple-Music-Genre-Classification
-> RNN-LSTM, CNN, Simple NeuralNetworks
+> LSTM-RNN, CNN, Simple NeuralNetworks
 
 <p align="left">
 <img src="/readme_images/LOGO.png" alt="MusicGenreClassification" width="400">
