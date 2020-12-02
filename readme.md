@@ -1,4 +1,4 @@
-# LSTM-CNN-Music-Genre-Classification
+# Simple-Music-Genre-Classification
 > RNN-LSTM, CNN, Simple NeuralNetworks
 
 <p align="left">
