@@ -10,9 +10,8 @@ This repo is meant to provide simple and straightforward starter codes to those 
 I hope that this work can help in several Deep Learning, Machine Learning projects in *Music Genre Classification*. The Dataset used in this research is from [LAMA : A World Music Dataset](https://github.com/brucewlee/LAMA-Music-Genre-Dataset)
 
 ## Getting Started
-> Some data couldn't be uploaded to GitHub because the file size was too large. Instead, I attached a Harvard Dataverse link below to retrieve the data.
 
-The data contained in **LAMA** can be classified into three categories: 
+The three main model construction/training/evaluation algorithms as below: NN, CNN, LSTM.
 1. **NN_Music_Classification.py** -> Simple Neural Network Made with TensorFlow
 2. **CNN_Music_Classification.py** -> Convolutional Neural Network Made with TensorFlow
 3. **LSTM_Music_Classification.py** -> RNN-LSTM Made with TensorFlow
