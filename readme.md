@@ -1,4 +1,4 @@
-# Music Genre Classification
+# Awesome Music Genre Classification
 > LSTM-RNN, CNN, Simple NeuralNetworks
 
 <p align="left">
