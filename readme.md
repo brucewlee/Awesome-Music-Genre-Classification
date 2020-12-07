@@ -7,7 +7,7 @@
 
 This repo is meant to provide simple and straightforward starter codes to those beginning a project in music Genre Classification using Deep Learning Techniques like LSTM, CNN, and just plain old-school Neural Networks. This model can classify new audio files into four categories: Latin American, Asian, Middle Eastern, and African Music.
 
-I hope that this work can help in several Deep Learning, Machine Learning projects in *Music Genre Classification*. The Dataset used in this research is from [LAMA : A World Music Dataset](https://github.com/brucewlee/LAMA-Music-Genre-Dataset)
+I hope that this work can help in several Deep Learning, Machine Learning projects in *Music Genre Classification*. The training data isn't provided here.
 
 ## Getting Started
 
@@ -26,4 +26,3 @@ The three main model construction/training/evaluation algorithms as below: NN, C
 ## Other Files
 1. **main.py** -> Make predictions using saved models from running the above codes
 2. **test_data** -> Provided for use in **main.py** 
-3. **LAMA_DataSet.json** -> MFCC training Data from [LAMA : A World Music Dataset](https://github.com/brucewlee/LAMA-Music-Genre-Dataset)
